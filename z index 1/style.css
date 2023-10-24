@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+}
+.div1{
+    width: 233px;
+    height: 192px;
+    background: #FC0000;
+    position: absolute;
+    top: 11px;
+    left: 12px;
+    z-index: 4;
+}
+.div2{
+    width: 233px;
+    height: 192px;
+    background: #05FC00;
+    position: absolute;
+    top: 107px;
+    left: 128px;
+    z-index: 3;
+}
+.div3{
+    width: 233px;
+    height: 192px;
+    background: #000AFC;
+    position: absolute;
+    top: 203px;
+    left: 244px; 
+    z-index:1;
+}
+.div4{
+    width: 233px;
+    height: 192px;
+    background: #F7FC00;
+    position: absolute;
+    top: 253px;
+    left: 314px;
+    z-index: 2;
+}
